@@ -1,4 +1,7 @@
-   
+#!/bin/bash
+# This will install all the requirements for libreoffice including the java-jre
+# For Ubuntu
+
    
    
    sudo apt-get check
